@@ -15,4 +15,4 @@ Description of project
 
 | Param     | Description | Type      | Default |
 | --------- | ----------- | --------- | ------- |
-| `example` | An example  | `boolean` | Example |
+| `example` | An example  | `boolean` | `true`  |
