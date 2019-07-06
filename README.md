@@ -13,6 +13,6 @@ Description of project
 
 ## Parameters
 
-| Param     | Description | Type      |
-| --------- | ----------- | --------- |
-| `example` | An example  | `boolean` |
+| Param     | Description | Type      | Default |
+| --------- | ----------- | --------- | ------- |
+| `example` | An example  | `boolean` | Example |
